@@ -13,11 +13,7 @@ Reproduction of the TPCRP algorithm from Hacohen et al., *Active Learning on a B
 ## Files
 
 - `tpcrp_cifar10.ipynb` — full implementation (SimCLR training, TPCRP, baselines, experiments, Task 3)
-- `report.tex` — LaTeX report (2 pages + code appendix)
-- `references.bib` — bibliography
 - `simclr.pth` — pretrained SimCLR checkpoint (500 epochs)
-- `results.png` — SimCLR loss curve, accuracy comparison, t-SNE
-- `task3.png` — modified vs original TPCRP comparison
 
 ## How to run
 
@@ -39,7 +35,3 @@ Open `tpcrp_cifar10.ipynb` and run all cells. SimCLR training takes ~3 hours on 
 | FF | .147 +/- .016 | .178 +/- .013 |
 
 10 repeats, Framework 1 (ResNet-18 from scratch, 200 epochs).
-
-## Author
-
-Wesam Alsaqer (Student ID: 23067889)
