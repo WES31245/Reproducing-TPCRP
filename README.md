@@ -13,7 +13,7 @@ Reproduction of the TPCRP algorithm from Hacohen et al., *Active Learning on a B
 ## Files
 
 - `tpcrp_cifar10.ipynb` — full implementation (SimCLR training, TPCRP, baselines, experiments, Task 3)
-- `simclr.pth` — pretrained SimCLR checkpoint (500 epochs)
+- `simclr.pth` — pretrained SimCLR checkpoint (500 epochs) (too big to upload on git)
 
 ## How to run
 
